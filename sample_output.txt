@@ -1,0 +1,27 @@
+=============================================
+       STUDENT RESULT MANAGEMENT SYSTEM
+=============================================
+1. Add student record
+2. Display all student records
+3. Search student by roll number
+4. Update student marks
+5. Delete student record
+0. Exit
+=============================================
+Enter your choice: 1
+
+--- Add Student ---
+Enter roll number: 101
+Enter student name: Rahul Sharma
+Enter marks in English (0-100): 78
+Enter marks in Mathematics (0-100): 88
+Enter marks in Physics (0-100): 75
+Enter marks in Chemistry (0-100): 82
+Enter marks in Programming (0-100): 91
+Student record added successfully.
+
+Example calculated result:
+Total       : 414.00 / 500.00
+Percentage  : 82.80%
+Result      : PASS
+Grade       : A

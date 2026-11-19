@@ -1,0 +1,7 @@
+# Compiled programs
+*.exe
+student_manager
+
+# Local student records (may contain personal data)
+students.dat
+students_temp.dat

@@ -1,0 +1,9 @@
+PROJECT SUBMISSION
+
+Project Title: Student Result Management System
+Programming Language: C
+Student Name: [Write your name]
+Roll Number: [Write your roll number]
+GitHub Repository URL: [Paste your GitHub repository URL here]
+
+Before submitting, replace the bracketed fields with your details and your actual GitHub repository URL.
